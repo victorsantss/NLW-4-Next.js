@@ -10,11 +10,13 @@ export function ChallengeBox() {
     function handleChallengeSucceeded() {
         completeChallenge();
         resetCountdown();
+        new Audio('/done.wav').play();
     }
 
     function handleChallengeFailed() {
         resetChallenge();
         resetCountdown();
+        new Audio('/fail.wav').play();
     }
 
 

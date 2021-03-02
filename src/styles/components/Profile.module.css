@@ -8,11 +8,13 @@
   color: #b39850;
   font-size: 46px;
   cursor: pointer;
+  margin-top: 2rem;
 }
 
 .profileContainer {
   display: flex;
   align-items: center;
+  margin-top: 2rem;
 }
 
 .profileContainer > img {
