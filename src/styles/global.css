@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-:root {
+.theme-light {
     --white:#fff;
     --background:#F2F3F5;
     --gray-line: #DCDDE0;
@@ -16,7 +16,23 @@
     --blue: #5965E0;
     --blue-dark: #4953B8;
     --blue-twitter: #2AA9E0;
+    --separator: #f0f1f3;
 }
+
+.theme-dark {
+    --white: #2E384D;
+    --background: rgba(46, 56, 77, 0.9);
+    --gray-line: #e0dce0;
+    --text: #E8E8E8;
+    --text-highlight: #b3b9ff;
+    --title: #fff;
+    --red: #e83f5b;
+    --green: #4cd62b;
+    --blue: #fff;
+    --blue-dark: #E8E8E8;
+    --blue-twitter: #2aa9e0;
+    --separator: rgba(104, 109, 119, 0.9);
+  }
 
 @media(max-width: 1080px) {
     html {
