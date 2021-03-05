@@ -1,5 +1,7 @@
 <h1 align="center">Move It</h1>
 
+![](src/assets/demogif.gif)
+
 <h1 align="left">🎯 O projeto </h1>
 
 <p> Utiliza a técnica de pomodoro, recompensando com pontos e níveis o usuário que realiza os exercícios recomendados. 
