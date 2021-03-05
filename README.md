@@ -1,6 +1,10 @@
 <h1 align="center">Move It</h1>
 
-![](src/assets/demogif.gif)
+<p align="center">Projeto criado na NLW#04 da Rocketseat</p>
+
+<p align="center">
+  <img src="src/assets/demogif.gif" alt="animated" />
+</p>
 
 <h1 align="left">🎯 O projeto </h1>
 
