@@ -3,7 +3,7 @@
 <p align="center">Projeto criado na NLW#04 da Rocketseat</p>
 
 <p align="center">
-  <img src="src/assets/gif.gif" alt="animated" />
+  <img src="src/assets/demo.gif" alt="animated" />
 </p>
 
 <h1 align="left">🎯 O projeto </h1>
