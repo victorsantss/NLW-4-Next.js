@@ -9,7 +9,7 @@
 <h1 align="left">🎯 O projeto </h1>
 
 <p> Utiliza a técnica de pomodoro, recompensando com pontos e níveis o usuário que realiza os exercícios recomendados. 
-Esssa aplicação foi desenvolvido durante a Next Level Week #04 da Rocketseat. </p>
+Essa aplicação foi desenvolvida durante a Next Level Week #04 da Rocketseat. </p>
 
 <h1 align="left">🛠️ Tecnologias </h1>
 
