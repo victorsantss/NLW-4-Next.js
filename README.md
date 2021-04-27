@@ -28,7 +28,7 @@ Além disso é bom ter um editor para trabalhar com o código como o [VSCode](ht
 
 ### 🔽 Clonando o repositório
 ```bash
-$ git clone <https://github.com/victorsantos895/NLW-4-Next.js.git>
+$ git clone <https://github.com/victorsantss/NLW-4-Next.js.git>
 ```
 
 ### 🖥️ Iniciando a aplicação
